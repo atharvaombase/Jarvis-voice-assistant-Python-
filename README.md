@@ -24,7 +24,4 @@ Contribution
 Contributions are welcome! If you'd like to add new features, fix bugs, or improve documentation, feel free to open a pull request.
 More api's can be added ,Funtions can become more refined,there is lots of work to do if someone wants to. 
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Feel free to customize this template according to the specific functionalities and setup requirements of your Jarvis Voice Assistant project. Additionally, make sure to update the GitHub repository link, license details, and any other relevant information.
